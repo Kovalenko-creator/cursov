@@ -1,1 +1,1 @@
-#cursov
+# cursov
